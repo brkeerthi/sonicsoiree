@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { CountdownTimer } from './components/CountdownTimer';
-import logo from '/ss.png?url';
+import logo from '/ss.png';
 
 export default function App() {
   return (
